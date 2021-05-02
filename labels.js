@@ -25,6 +25,11 @@ module.exports = [
     color: '43EB2E',
     desc: 'Interfaz visual y experiencia de usuario.',
   },
+  {
+    nombreNuevo: 'experimento :jigsaw:',
+    color: '000000',
+    desc: 'Propuesta experimental o para inventar solución creativa.',
+  },
   // EXISTENTES
   {
     nombreActual: 'bug',
